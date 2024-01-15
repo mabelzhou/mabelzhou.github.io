@@ -1,16 +1,13 @@
 import Skills from "../components/Skills";
 import Timeline from "../components/Timeline";
 import "./About.css";
+import myPhoto from "../assets/me.png";
 
 const About = () => {
   return (
     <>
       <div className="moreAboutMe">
-        <img
-          className="moreAboutMe-image"
-          src="src\assets\me.png"
-          alt="Photo of Mabel"
-        />
+        <img className="moreAboutMe-image" src={myPhoto} alt="Photo of Mabel" />
         <div className="moreAboutMe-info">
           <h1>About Me</h1>
           <p>

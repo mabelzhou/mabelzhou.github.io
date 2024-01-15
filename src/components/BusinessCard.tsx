@@ -1,14 +1,11 @@
 import "./BusinessCard.css";
 import { Github, Linkedin, FilePerson } from "react-bootstrap-icons";
+import myPhoto from "src/assets/me.png";
 
 const BusinessCard = () => {
   return (
     <div className="card">
-      <img
-        className="card-image"
-        src="src\assets\me.png"
-        alt="Photo of Mabel"
-      />
+      <img className="card-image" src={myPhoto} alt="Photo of Mabel" />
       <div className="card-info">
         <h1 className="card-info-item">Hi, I'm Mabel!</h1>
         <p className="card-info-item">
