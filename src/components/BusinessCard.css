@@ -1,0 +1,109 @@
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-50%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+@keyframes slideInFromTop {
+    0% {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  
+}
+
+.card {
+    width: 40rem;
+    margin: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #ccc;
+    padding: 2rem;
+    background-color: #fff;
+    color: #000;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    display: flex;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+.card-info-item {
+    margin: 1rem;
+}
+
+.card-image {
+    width: 250px;
+    height: 250px;
+    margin-right: 1rem;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card-icons {
+    display: flex;
+    margin: 1rem;
+}
+
+.card-icons a {
+    padding: 0.5rem;
+    margin: 0.1rem;
+    /* border: 0.1em solid #ccc; */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px; 
+    height: 40px; 
+    color: black;
+}
+
+.card-icons a:hover {
+    background-color: #000;
+    color:white;
+}
+
+#github-icon {
+  background-color: #FD8A8A;
+  border: 0.1em solid #FD8A8A;
+  color: white;
+}
+
+#github-icon:hover {
+  background-color: white;
+  color:#FD8A8A;
+}
+
+#linkedin-icon {
+  background-color: #9EA1D4;
+  border: 0.1em solid #9EA1D4;
+  color: white;
+}
+
+#linkedin-icon:hover {
+  background-color: white;
+  color:#9EA1D4;
+}
+
+#cv-icon {
+  background-color: #b6cfb6;
+  border: 0.1em solid #b6cfb6;
+  color: white;
+}
+
+#cv-icon:hover {
+  background-color: white;
+  color:#b6cfb6;
+}
