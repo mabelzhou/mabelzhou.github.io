@@ -1,6 +1,6 @@
 import "./BusinessCard.css";
 import { Github, Linkedin, FilePerson } from "react-bootstrap-icons";
-import myPhoto from "src/assets/me.png";
+import myPhoto from "../assets/me.png";
 
 const BusinessCard = () => {
   return (
