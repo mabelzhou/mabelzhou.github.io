@@ -26,28 +26,28 @@ const Projects = () => {
           github="https://www.github.com/mabelzhou/dice-roller"
         />
         <ProjectCard
-          image={qrImg}
+          image={weatherImg}
           name="Weather App"
           description="A weather app made using React and the OpenWeatherMap API. It displays the current weather and a 3-day forecast for any city."
           link="https://mabelzhou.github.io/weather-app/"
           github="https://www.github.com/mabelzhou/weather-app"
         />
         <ProjectCard
-          image={shirtImg}
+          image={qrImg}
           name="QR Code Generator"
           description="A QR code generator made using React. It generates a QR code for any text inputted by the user with customizable colours."
           link="https://mabelzhou.github.io/qr-code-generator/"
           github="https://www.github.com/mabelzhou/qr-code-generator"
         />
         <ProjectCard
-          image={weatherImg}
+          image={websiteImg}
           name="Personal Website"
           description="You're here now! Welcome, and thanks for visiting! 😊"
           link=""
           github="https://github.com/mabelzhou/mabelzhou.github.io"
         />
         <ProjectCard
-          image={websiteImg}
+          image={shirtImg}
           name="Shirt Customizer"
           description="A shirt customizer made using React and Tailwind. It allows the user to customize the shirt's colour, texture, and logo."
           link="https://mabelzhou.github.io/shirt-customizer/"

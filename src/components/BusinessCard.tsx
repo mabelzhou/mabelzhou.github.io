@@ -14,16 +14,28 @@ const BusinessCard = () => {
           learning how to code.
         </p>
         <div className="card-icons">
-          <a href="https://github.com/mabelzhou" id="github-icon">
+          <a
+            href="https://github.com/mabelzhou"
+            id="github-icon"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Github size={30} />
           </a>
           <a
             href="https://www.linkedin.com/in/mabel-zhou-a92131a5/"
             id="linkedin-icon"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Linkedin size={30} />
           </a>
-          <a href="https://example.com" id="cv-icon">
+          <a
+            href="https://drive.google.com/file/d/1NolE9X4pFUShsTbZBGz6y7ZRflKdgfLj/view?usp=sharing"
+            id="cv-icon"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FilePerson size={30} />
           </a>
         </div>
