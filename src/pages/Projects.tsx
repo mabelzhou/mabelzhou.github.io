@@ -1,11 +1,11 @@
 import ProjectCard from "../components/ProjectCard";
 import "./Projects.css";
-import diceImg from "src/assets/dice.png";
-import pathfindingImg from "src/assets/pathfinding.png";
-import qrImg from "src/assets/qr.png";
-import shirtImg from "src/assets/shirt.png";
-import weatherImg from "src/assets/weather.png";
-import websiteImg from "src/assets/website.png";
+import diceImg from "../assets/dice.png";
+import pathfindingImg from "../assets/pathfinding.png";
+import qrImg from "../assets/qr.png";
+import shirtImg from "../assets/shirt.png";
+import weatherImg from "../assets/weather.png";
+import websiteImg from "../assets/website.png";
 
 const Projects = () => {
   return (
