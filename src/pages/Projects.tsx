@@ -2,7 +2,7 @@ import ProjectCard from "../components/ProjectCard";
 import "./Projects.css";
 import diceImg from "../assets/dice.png";
 import pathfindingImg from "../assets/pathfinder.png";
-import qrImg from "../assets/qr.png";
+import qrImg from "../assets/qrcode.png";
 import shirtImg from "../assets/shirt.png";
 import weatherImg from "../assets/weather.png";
 import websiteImg from "../assets/website.png";
