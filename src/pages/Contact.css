@@ -3,7 +3,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 50vh;
     font-size: 1.2em;
     animation: 1.5s ease-out 0s 1 slideInFromRight;
 }
