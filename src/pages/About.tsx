@@ -15,8 +15,8 @@ const About = () => {
             Mechanical Engineering. I designed and programmed building
             automation systems for commercial, multi-residential, and
             institutional buildings for two and a half years before deciding to
-            pursue software development full-time. I'm currently studying at
-            Seneca Polytechnica.
+            pursue software development full-time. I'm currently studying
+            Computer Programming & Analysis at Seneca Polytechnic.
           </p>
         </div>
       </div>

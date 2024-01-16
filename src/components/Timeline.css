@@ -31,7 +31,6 @@
     padding: 32px;
     margin: 48px 0;
     line-height: 2;
-    cursor: pointer;
     position: relative;
     transition: all 500ms;
   }
