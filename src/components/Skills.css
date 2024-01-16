@@ -26,3 +26,10 @@
     gap: 20px;
     flex-wrap: wrap;
 }
+
+@media (max-width: 600px) {
+    .skill-logos img {
+        width: 90px;
+        height: auto;
+    }
+} 

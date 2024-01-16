@@ -11,8 +11,9 @@ const Timeline = () => {
             <strong>BAS & Energy Analyst</strong>
           </p>
           <p>
-            Responsible for 300+ multi-residential building automation systems
-            and HVAC operation parameters.
+            Responsible for 300+ multi-family residential building automation
+            systems and HVAC operational parameters, including equipment PID
+            controls.
           </p>
         </div>
       </div>
@@ -40,7 +41,7 @@ const Timeline = () => {
           </p>
           <p>
             Worked at Natural Resources Canada, Canada Post, Department of
-            National Defence, and Canada Border Services Agency for my
+            National Defence, and Canada Border Services Agency for university
             mechanical engineering co-op program.
           </p>
         </div>

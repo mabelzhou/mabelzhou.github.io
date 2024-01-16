@@ -17,6 +17,7 @@ const Projects = () => {
           description="A weather app made using React and the OpenWeatherMap API. It displays the current weather and a 3-day forecast for any city."
           link="https://mabelzhou.github.io/weather-app/"
           github="https://www.github.com/mabelzhou/weather-app"
+          demo={true}
         />
         <ProjectCard2
           image={diceImg}
@@ -24,6 +25,7 @@ const Projects = () => {
           description="A web-based virtual dice roller made using Three.js for 3D rendering and Cannon-es for physics simulation."
           link="https://mabelzhou.github.io/dice-roller/"
           github="https://www.github.com/mabelzhou/dice-roller"
+          demo={true}
         />
         <ProjectCard2
           image={qrImg}
@@ -31,6 +33,7 @@ const Projects = () => {
           description="A QR code generator made using React. It generates a QR code for any text inputted by the user with customizable colours."
           link="https://mabelzhou.github.io/qr-code-generator/"
           github="https://www.github.com/mabelzhou/qr-code-generator"
+          demo={true}
         />
         <ProjectCard2
           image={websiteImg}
@@ -38,13 +41,15 @@ const Projects = () => {
           description="You're here now! Welcome, and thanks for visiting! 😊"
           link=""
           github="https://github.com/mabelzhou/mabelzhou.github.io"
+          demo={true}
         />
         <ProjectCard2
           image={pathfindingImg}
           name="Pathfinding Visualizer"
           description="A pathfinding visualizer written in Python using Pygame. It uses the A* algorithm to find the shortest path between two points."
-          link="https://mabelzhou.github.io/pathfinding-visualizer/"
+          link=""
           github="https://www.github.com/mabelzhou/pathfinding-visualizer"
+          demo={false}
         />
         <ProjectCard2
           image={shirtImg}
@@ -52,6 +57,7 @@ const Projects = () => {
           description="A shirt customizer made using React and Tailwind. It allows the user to customize the shirt's colour, texture, and logo."
           link="https://mabelzhou.github.io/shirt-customizer/"
           github="https://www.github.com/mabelzhou/shirt-customizer"
+          demo={true}
         />
       </div>
     </>

@@ -10,8 +10,8 @@ const BusinessCard = () => {
         <h1 className="card-info-item">Hi, I'm Mabel!</h1>
         <p className="card-info-item">
           I'm a mechanical engineering graduate and programmer based in Toronto.
-          I worked in building automation for 2&frac12; years and now I'm
-          learning how to code.
+          I worked in building automation for 2&frac12; years. I'm passionate
+          about the intersection of engineering and technology.
         </p>
         <div className="card-icons">
           <a
