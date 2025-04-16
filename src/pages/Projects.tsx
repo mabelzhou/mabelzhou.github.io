@@ -6,11 +6,20 @@ import qrImg from "../assets/qrcode.png";
 import shirtImg from "../assets/shirt.png";
 import weatherImg from "../assets/weather.png";
 import websiteImg from "../assets/website.png";
+import spiceforgeImg from "../assets/spiceforge.png";
 
 const Projects = () => {
   return (
     <>
       <div className="card-container">
+        <ProjectCard2
+          image={spiceforgeImg}
+          name="Spice Forge"
+          description="A website for a meal kit delivery service using EJS and Express."
+          link="https://spice-forge.onrender.com/"
+          github="https://github.com/mabelzhou/spice-forge"
+          demo={true}
+        />
         <ProjectCard2
           image={weatherImg}
           name="Weather App"
