@@ -11,12 +11,9 @@ const About = () => {
         <div className="moreAboutMe-info">
           <h1>About Me</h1>
           <p>
-            I graduated from the University of Ottawa in 2020 with a degree in
-            Mechanical Engineering. I designed and programmed building
-            automation systems for commercial, multi-residential, and
-            institutional buildings for two and a half years before deciding to
-            pursue software development full-time. I'm currently studying
-            Computer Programming & Analysis at Seneca Polytechnic.
+            I graduated from the University of Ottawa in 2020 with a Mechanical Engineering degree 
+            and hold a diploma in Computer Programming. After 2&frac12; years working in building automation, 
+            I now work as an automation engineer at ParTech.
           </p>
         </div>
       </div>

@@ -15,8 +15,14 @@ const Skills = () => {
           <img
             width="144"
             height="144"
+            src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000"
+            alt="csharp"
+          />
+          <img
+            width="144"
+            height="144"
             src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"
-            alt="c-plus-plus-logo"
+            alt="cplusplus"
           />
           <img
             width="120"
@@ -24,18 +30,29 @@ const Skills = () => {
             src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
             alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"
           />
-
           <img
             width="144"
             height="144"
-            src="https://img.icons8.com/color/144/html-5--v1.png"
-            alt="html-5--v1"
+            src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"
+            alt="nextjs"
           />
           <img
             width="144"
             height="144"
-            src="https://img.icons8.com/color/144/css3.png"
-            alt="css3"
+            src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"
+            alt="mongodb"
+          />
+          <img
+            width="144"
+            height="144"
+            src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000"
+            alt="supabase"
+          />
+          <img
+            width="144"
+            height="144"
+            src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"
+            alt="postgressql"
           />
           <img
             width="144"
@@ -64,20 +81,38 @@ const Skills = () => {
           <img
             width="144"
             height="144"
-            src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg"
-            alt="threejs"
-          />
-          <img
-            width="144"
-            height="144"
             src="https://img.icons8.com/color/144/python--v1.png"
             alt="python--v1"
           />
           <img
             width="144"
             height="144"
+            src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000"
+            alt="jenkins"
+          />
+          <img
+            width="144"
+            height="144"
             src="https://img.icons8.com/color/144/000000/git.png"
             alt="git"
+          />
+          <img
+            width="144"
+            height="144"
+            src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000"
+            alt="selenium"
+          />
+          <img
+            width="144"
+            height="144"
+            src="https://img.icons8.com/?size=100&id=ggvujvXlC5MA&format=png&color=000000"
+            alt="testrails"
+          />
+          <img
+            width="144"
+            height="144"
+            src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg"
+            alt="threejs"
           />
         </div>
       </div>

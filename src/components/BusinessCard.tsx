@@ -9,9 +9,9 @@ const BusinessCard = () => {
       <div className="card-info">
         <h1 className="card-info-item">Hi, I'm Mabel!</h1>
         <p className="card-info-item">
-          I'm a mechanical engineering graduate and programmer based in Toronto.
-          I worked in building automation for 2&frac12; years. I'm passionate
-          about the intersection of engineering and technology.
+          I'm a developer based in Toronto who loves building intuitive, thoughtful software.
+          I have experience in full-stack and mobile development, and enjoy turning ideas 
+          into real, usable products.
         </p>
         <div className="card-icons">
           <a
