@@ -1,4 +1,3 @@
-import React from 'react'
 import { Project } from '../pages/Projects'
 import { Github } from 'react-bootstrap-icons'
 import { ExternalLink } from 'lucide-react'
