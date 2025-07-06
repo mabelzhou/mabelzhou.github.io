@@ -31,7 +31,7 @@ const BusinessCard = () => {
             <Linkedin size={30} />
           </a>
           <a
-            href="https://drive.google.com/file/d/1NolE9X4pFUShsTbZBGz6y7ZRflKdgfLj/view?usp=sharing"
+            href="https://www.dropbox.com/scl/fi/2h71sayuvdq31bmmjqu96/Resume-Mabel-Zhou.pdf?rlkey=0rx05c9k019mxp1slpsy4ups6&st=6kloc17v&dl=0"
             id="cv-icon"
             target="_blank"
             rel="noopener noreferrer"
